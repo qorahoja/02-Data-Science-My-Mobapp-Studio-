@@ -44,7 +44,7 @@ Embark on a thrilling journey through the expansive landscape of the Google Play
 
 ## Blog Post
 
-[Link to Blog Post - Insert Link Here]
+[https://medium.com/@tursunboyevsanjar27/unveiling-insights-a-python-journey-into-app-store-data-analysis-9a8f13415512]
 
 ## Feedback and Contributions
 
