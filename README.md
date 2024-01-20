@@ -46,7 +46,3 @@ Embark on a thrilling journey through the expansive landscape of the Google Play
 
 https://medium.com/@tursunboyevsanjar27/unveiling-insights-a-python-journey-into-app-store-data-analysis-9a8f13415512
 
-## Feedback and Contributions
-
-Feel free to provide feedback or contribute to the project by [creating an issue](link-to-issues) or submitting a pull request.
-
